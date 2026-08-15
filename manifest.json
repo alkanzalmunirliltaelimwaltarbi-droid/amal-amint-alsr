@@ -1,0 +1,27 @@
+{
+  "name": "نظام أمانة السر - ثانوية السيدة عائشة رضي الله عنها الشرعية للبنات",
+  "short_name": "أمانة السر",
+  "description": "نظام أمانة السر الإداري المتكامل",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f3ea",
+  "theme_color": "#0b5d4b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
